@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Nicechannels Telegram Ads Taxonomies
-Plugin URI: 
-Description: Enables you to display how many times a post/page had been viewed.
+Plugin URI: https://github.com/destanam88/wpnicechannels/archive/master.zip
+Description: Nicechannels Telegram Ads Taxonomies For Wp Theme NiceChannels
 Version: 1.0
 Author: ahmaddeveloper
 Author URI: http://ahmaddeveloper.in
